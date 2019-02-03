@@ -1,0 +1,15 @@
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\exception\OperatorNotDefinedException.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\operator\LeftBrace.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\operator\SymbolicOperator.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\operator\Symbol.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\constant\Precedence.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\operator\Add.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\App.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\operator\Operator.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\operator\Divide.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\operator\Multiply.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\operator\Exponent.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\exception\OperationNotSupportedException.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\operator\Substract.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\operator\RightBrace.java
+D:\Projects\capita\string-calc\src\main\java\com\capita\stringcalc\ExpressionService.java
